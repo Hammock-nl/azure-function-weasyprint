@@ -2,6 +2,7 @@
 .vscode
 .idea
 .python_packages
+check*.pdf
 
 bin
 obj
